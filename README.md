@@ -28,3 +28,10 @@ A wireframe has been provided for reference if you need it, but you are in no wa
  - Depending on how you do this, there might be some pauses/freezes as you do the sorting.  This isn't a test of optimisation, its purely to see how you work with the toolsets.  If you want to go super fancy and dispatch the sorting out to `WebWorkers` feel free, but its not a requirement.
 
  - If you're across Python and want to mess with the data (or regenerate it), you can pipe the output from `stdout` right to a text file in any shell: `python ./data.py > data2.txt`.  You'll need `pipenv` to build the environment.
+
+
+## Install
+`yarn`
+## Run
+`yarn start`
+
